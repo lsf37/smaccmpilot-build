@@ -1,6 +1,6 @@
 [submodule "smaccmpilot-stm32f4"]
 	path = smaccmpilot-stm32f4
-	url = https://github.com/GaloisInc/smaccmpilot-stm32f4
+	url = https://github.com/lsf37/smaccmpilot-stm32f4
 [submodule "ivory"]
 	path = ivory
 	url = https://github.com/GaloisInc/ivory.git
